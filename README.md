@@ -11,5 +11,5 @@ gradlew.bat desktop:run
 ```
   
 ```Linux/MacOSの場合
-gradlew desktop:run
+./gradlew desktop:run
 ```
