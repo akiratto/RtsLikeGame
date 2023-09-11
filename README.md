@@ -3,7 +3,7 @@
 RTSライクなゲームをつくる予定です。  
   
 実行にはJRE8が必要です。あなたの環境にインストールされていない場合、  
-下記からダウンロードしてください。
+下記からダウンロードしてください。  
 https://docs.aws.amazon.com/ja_jp/corretto/latest/corretto-8-ug/downloads-list.html  
   
 Windows/Linux/MacOSで次の手順で実行可能です。  
